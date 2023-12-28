@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 I am a Master student majoring math at FU. I mainly student discrete optimization and discrete geometry.
+
+You can find a draft of my thesis here. 
