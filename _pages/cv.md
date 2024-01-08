@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in China, Southern University of Science and Technology, 2021
-* M.S. in Germany, Free University of Berlin, on going
+* M.S. in Germany, Free University of Berlin, present
 
 Work experience
 ======
