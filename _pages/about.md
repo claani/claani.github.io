@@ -10,4 +10,4 @@ redirect_from:
 
 I am a Master student majoring math at FU. I mainly student discrete optimization and discrete geometry.
 
-You can find a draft of my thesis here. [Master Thesis](../assets/master_thesis.pdf)
+You can find a draft of my thesis here [Master Thesis](../assets/master_thesis.pdf), Please note that the introduction and computational results are still being worked on
